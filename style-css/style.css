@@ -43,3 +43,31 @@ main{
 
     margin-top: 2%;
 }
+
+.articolo{
+
+    margin-top: 5%;
+
+}
+
+#listalign{
+    padding-left: 2%;
+}
+
+#tabella{
+    
+    border-collapse: collapse;
+    table-layout: auto;
+    
+}
+
+#testatabella{
+    background-color: rgb(0, 132, 255);
+    
+    color: white;
+}
+
+.cellcolor{
+    
+    background-color: aquamarine;
+}
